@@ -1,3 +1,5 @@
+const express = require('express')
+const app = express()
 const path = require('path');
 // ...
 // For all GET requests, send back index.html
